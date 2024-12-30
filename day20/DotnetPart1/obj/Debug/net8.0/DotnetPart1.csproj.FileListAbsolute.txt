@@ -1,0 +1,14 @@
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/bin/Debug/net8.0/DotnetPart1
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/bin/Debug/net8.0/DotnetPart1.deps.json
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/bin/Debug/net8.0/DotnetPart1.runtimeconfig.json
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/bin/Debug/net8.0/DotnetPart1.dll
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/bin/Debug/net8.0/DotnetPart1.pdb
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.AssemblyInfoInputs.cache
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.AssemblyInfo.cs
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.csproj.CoreCompileInputs.cache
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.dll
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/refint/DotnetPart1.dll
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.pdb
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/DotnetPart1.genruntimeconfig.cache
+/Users/andreisitaev/sources/sennder/aoc2024/day20/DotnetPart1/obj/Debug/net8.0/ref/DotnetPart1.dll

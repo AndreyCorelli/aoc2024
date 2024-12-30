@@ -1,0 +1,17 @@
+- 1 -
+mnm XOR gqb -> gwh
+dsk OR ptc -> z09
+
+- 2 -
+y13 AND x13 -> wbw
+y13 XOR x13 -> wgb
+
+- 3 -
+kgk AND sbs -> z21
+kgk XOR sbs -> rcb
+
+- 4 -
+x39 AND y39 -> z39
+wjf XOR ksf -> jct
+
+",".join(sorted("gwh z09 wbw wgb z21 rcb z39 jct".split(" ")))

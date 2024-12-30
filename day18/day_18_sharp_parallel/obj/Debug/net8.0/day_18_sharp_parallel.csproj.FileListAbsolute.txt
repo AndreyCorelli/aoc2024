@@ -1,0 +1,14 @@
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/bin/Debug/net8.0/day_18_sharp_parallel
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/bin/Debug/net8.0/day_18_sharp_parallel.deps.json
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/bin/Debug/net8.0/day_18_sharp_parallel.runtimeconfig.json
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/bin/Debug/net8.0/day_18_sharp_parallel.dll
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/bin/Debug/net8.0/day_18_sharp_parallel.pdb
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.AssemblyInfoInputs.cache
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.AssemblyInfo.cs
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.csproj.CoreCompileInputs.cache
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.dll
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/refint/day_18_sharp_parallel.dll
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.pdb
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/day_18_sharp_parallel.genruntimeconfig.cache
+/Users/andreisitaev/sources/sennder/aoc2024/day18/day_18_sharp_parallel/obj/Debug/net8.0/ref/day_18_sharp_parallel.dll
